@@ -1,0 +1,41 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
+header h1{
+    display: block;
+    text-align: center;
+    padding: 25px;
+    
+}
+
+section{
+    margin: auto;
+    width: 500px;
+    padding: 15px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.284);
+}
+footer{
+    display: block;
+    text-align: center;
+  padding: 25px;
+    font-style: italic;
+}
+div{
+    text-align: left;
+    padding: 22px;
+    line-height: 30px;
+    
+}
+
+img{
+    display: block;
+    margin: auto;
+}
